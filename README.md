@@ -3,9 +3,7 @@
   <p align="center" style="font-size: 0.2em">Delightful React Server-Side Rendering</p>
 </h1>
 
-# 线上DEMO演示
-基于这个demo扩展的做了个人博客。可以参考下
-http://www.shuxia123.com/
+
 
 # React SSR
 这是基于`React`、`React-Router`、`Redux`、`Koa2.0`实现的React服务端渲染方案。为了更好的演示，已实现一个简单的电影首页、电影详情页。
@@ -48,9 +46,7 @@ http://localhost:4322/api/movie/30163509
 <div>
     <img src="https://raw.githubusercontent.com/coocssweb/coocssweb.github.io/master/photos/react-ssr/how.jpeg" align="center" title="首页" width="800">
 </div>
-如果你想查看更多原理内容，可以看我的知乎。
 
-<a href="https://zhuanlan.zhihu.com/p/57856814">React SSR 实现原理</a>
 
 
 # webpack依赖目录 与 nodejs依赖目录
@@ -78,8 +74,6 @@ alias: {
 
 ## 首页预览 和 浏览器源码
 
-
-访问 http://localhost:4322
 
 <div>
     <img src="https://coocssweb.github.io/photos/react-ssr/preview-01.jpg" align="center" title="首页" width="800">
